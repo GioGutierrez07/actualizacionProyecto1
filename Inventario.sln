@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventario", "Inventario\Inventario.csproj", "{713CE3EF-1A5E-4BDB-832C-E3A59298F0D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{00137BD0-4185-405A-A6A1-8328AF51A772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{E45CBF8B-95D6-4E41-921F-1B2CC8645776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713CE3EF-1A5E-4BDB-832C-E3A59298F0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713CE3EF-1A5E-4BDB-832C-E3A59298F0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713CE3EF-1A5E-4BDB-832C-E3A59298F0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713CE3EF-1A5E-4BDB-832C-E3A59298F0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00137BD0-4185-405A-A6A1-8328AF51A772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00137BD0-4185-405A-A6A1-8328AF51A772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00137BD0-4185-405A-A6A1-8328AF51A772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00137BD0-4185-405A-A6A1-8328AF51A772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45CBF8B-95D6-4E41-921F-1B2CC8645776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45CBF8B-95D6-4E41-921F-1B2CC8645776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45CBF8B-95D6-4E41-921F-1B2CC8645776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45CBF8B-95D6-4E41-921F-1B2CC8645776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C39B144-5A34-4C2E-A161-8CFD3BBF8905}
+	EndGlobalSection
+EndGlobal
